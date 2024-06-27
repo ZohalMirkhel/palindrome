@@ -99,3 +99,9 @@ label {
   vertical-align: middle;
   text-align: justify;
 }
+
+.results {
+  overflow-y: auto;
+  word-wrap: break-word;
+  color: black;
+}
