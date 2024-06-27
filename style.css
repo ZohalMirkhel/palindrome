@@ -75,11 +75,13 @@ label {
   border: none;
   border-bottom: 2px solid #5a01a7;
 }
-  
+
 .text:focus {
+  border: none;
   border-bottom: 3px solid #5a01a7;
+  outline: none;
 }
-  
+
 .palindrome-div1 {
   width: min(100vw, 450px);
   font-size: 1.3rem;
@@ -93,7 +95,7 @@ label {
   justify-content: center;
 }
   
-.palindrome-def:not(.bulb) {
+.palindrome-def {
   vertical-align: middle;
   text-align: justify;
 }
