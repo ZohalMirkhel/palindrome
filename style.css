@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-  
+
 body {
   font-family:
     'Segoe UI',
@@ -14,7 +14,7 @@ body {
   background-color: #0a0a23;
   color: #fff;
 }
-  
+
 .container {
   width: 100%;
   min-height: 100vh;
@@ -24,19 +24,19 @@ body {
   justify-content: center;
   flex-direction: column;
 }
-  
+
 .freecodecamp-logo {
   height: 30px;
   margin-bottom: 15px;
 }
-  
+
 .title {
   text-align: center;
   padding: 15px 0;
   font-size: 2.5rem;
   margin-bottom: 15px;
 }
-  
+
 .palindrome-div {
   width: min(100vw, 450px);
   min-height: 100px;
@@ -50,12 +50,12 @@ body {
   background-color: #fff;
   box-shadow: 0 4px 4px #002ead;
 }
-  
+
 label {
   color: #0a0a23;
   margin-bottom: 15px;
 }
-  
+
 .btn {
   width: 90px;
   border: none;
@@ -65,7 +65,7 @@ label {
   color: #fff;
   cursor: pointer;
 }
-  
+
 .text {
   height: 30px;
   width: 250px;
@@ -94,7 +94,7 @@ label {
   align-items: center;
   justify-content: center;
 }
-  
+
 .palindrome-def {
   vertical-align: middle;
   text-align: justify;
